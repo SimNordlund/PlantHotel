@@ -1,0 +1,5 @@
+Namn: Igge Längd: 20.0 cm.
+Namn: Laura Längd: 500.0 cm.
+Namn: Meatloaf Längd: 70.0 cm.
+Namn: Olof Längd: 100.0 cm.
+Namn: Simon Längd: 850.0 cm.
